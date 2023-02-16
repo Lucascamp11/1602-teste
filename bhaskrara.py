@@ -22,4 +22,4 @@ if d > 0:
     print("A equação possui duas raizes reais {:.2f} e {:.2f}!".format(x1,x2))
 
 #O ARQUIVO FOI ALTERADO POR AUGUSTO MEDEIROS
-#Lucas Campestrini
+#Lucas Campestrini1
